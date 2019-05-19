@@ -1,0 +1,5 @@
+# firebase key
+config/serviceAccountKey.json
+
+# python binary
+*.pyc
